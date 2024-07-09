@@ -1,6 +1,6 @@
 <h2 align="center">
   Portfolio Website <br/>
-  <a href="https://muzmil-ali.netlify.app/" target="_blank">Muzamil Ali</a>
+  <a href="https://muzmil-ali.netlify.app/" target="_blank">Nusratullo Uralov</a>
 </h2>
 <div align="center">
   <img alt="Demo" src="./frontend/Images/readme-img.png" />
