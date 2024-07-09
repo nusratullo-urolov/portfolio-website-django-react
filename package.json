@@ -1,0 +1,19 @@
+{
+  "name": "django-react-portfolio",
+  "version": "1.0.0",
+  "description": "<h2 align=\"center\">   Portfolio Website <br/>   <a href=\"https://muzmil-ali.netlify.app/\" target=\"_blank\">Muzamil Ali</a> </h2> <div align=\"center\">   <img alt=\"Demo\" src=\"./frontend/Images/readme-img.png\" /> </div>",
+  "main": ".js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Muzmmil207/django-react-portfolio.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Muzmmil207/django-react-portfolio/issues"
+  },
+  "homepage": "https://github.com/Muzmmil207/django-react-portfolio#readme"
+}
